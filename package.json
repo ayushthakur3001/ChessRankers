@@ -2,7 +2,7 @@
   "name": "chesssmasher",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ayushthakur3001/ChessRankers",
+  "homepage": "https://ayushthakur3001.github.io/ChessRankers/",
   "dependencies": {
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.11.2",
