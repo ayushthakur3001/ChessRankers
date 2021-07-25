@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ayushthakur3001/ChessRankers/static/css/main.34163d3e.chunk.css",
-    "main.js": "/ayushthakur3001/ChessRankers/static/js/main.6efff498.chunk.js",
-    "main.js.map": "/ayushthakur3001/ChessRankers/static/js/main.6efff498.chunk.js.map",
-    "runtime-main.js": "/ayushthakur3001/ChessRankers/static/js/runtime-main.4c785376.js",
-    "runtime-main.js.map": "/ayushthakur3001/ChessRankers/static/js/runtime-main.4c785376.js.map",
-    "static/js/2.073a7af8.chunk.js": "/ayushthakur3001/ChessRankers/static/js/2.073a7af8.chunk.js",
-    "static/js/2.073a7af8.chunk.js.map": "/ayushthakur3001/ChessRankers/static/js/2.073a7af8.chunk.js.map",
-    "index.html": "/ayushthakur3001/ChessRankers/index.html",
-    "static/css/main.34163d3e.chunk.css.map": "/ayushthakur3001/ChessRankers/static/css/main.34163d3e.chunk.css.map",
-    "static/js/2.073a7af8.chunk.js.LICENSE.txt": "/ayushthakur3001/ChessRankers/static/js/2.073a7af8.chunk.js.LICENSE.txt"
+    "main.css": "/ChessRankers/static/css/main.34163d3e.chunk.css",
+    "main.js": "/ChessRankers/static/js/main.6efff498.chunk.js",
+    "main.js.map": "/ChessRankers/static/js/main.6efff498.chunk.js.map",
+    "runtime-main.js": "/ChessRankers/static/js/runtime-main.d46e431d.js",
+    "runtime-main.js.map": "/ChessRankers/static/js/runtime-main.d46e431d.js.map",
+    "static/js/2.073a7af8.chunk.js": "/ChessRankers/static/js/2.073a7af8.chunk.js",
+    "static/js/2.073a7af8.chunk.js.map": "/ChessRankers/static/js/2.073a7af8.chunk.js.map",
+    "index.html": "/ChessRankers/index.html",
+    "static/css/main.34163d3e.chunk.css.map": "/ChessRankers/static/css/main.34163d3e.chunk.css.map",
+    "static/js/2.073a7af8.chunk.js.LICENSE.txt": "/ChessRankers/static/js/2.073a7af8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c785376.js",
+    "static/js/runtime-main.d46e431d.js",
     "static/js/2.073a7af8.chunk.js",
     "static/css/main.34163d3e.chunk.css",
     "static/js/main.6efff498.chunk.js"
