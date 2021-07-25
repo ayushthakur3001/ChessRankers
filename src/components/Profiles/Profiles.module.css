@@ -1,0 +1,36 @@
+.profiles{
+    height: 185px;
+    width: 60px;
+    background-color: rgba(255, 255, 255, 0.644);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 63px;
+    position: absolute;
+    left: 30.5%;
+
+    
+}
+.icont{
+    color: rgb(35, 129, 252);
+    cursor: pointer;
+    
+}
+.iconi{
+    cursor: pointer;
+    color: rgb(238, 48, 181);
+    
+}
+.iconf{
+    cursor: pointer;
+    color: rgb(17, 39, 238);
+}
+
+@media (max-width: 450px) {
+    .profiles{
+        display: none;
+    }
+    
+}

@@ -1,0 +1,89 @@
+
+.container{
+    background-image: url(../../assets/chess.png);
+    width: 500px;
+    height: 500px;
+    background-size: contain;
+    margin: 15px 0;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+
+    
+}
+.image{
+    opacity: 0.3;
+    height: 20%;
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.user{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.mainDiv{
+    width: 60%;
+    height: 70%;
+    background-color: rgb(216, 208, 208);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 8px;
+}
+.mainDiv h2,h3{
+    text-align: center;
+}
+.mainDiv p{
+    text-align: center;
+    font-weight: 700;
+    width: 140%;
+    font-size: 16px;
+}
+.rotateCard{
+    transform: rotateY(360deg);
+    transition: 2s;
+    
+}
+
+.rotateContent{
+    transform: rotateY(360deg);
+    transition: 2s;
+}
+.country{
+    display: flex ;
+    align-items: center;
+    justify-content: space-around;
+}
+.country img{
+    width: 20px;
+    
+}
+
+@media (max-width: 450px){
+    .container{
+        width: 350px;
+        height: 350px;
+        margin-top: 100px;
+        margin-left: 10px;
+        background-size: cover;
+    }
+    
+    .mainDiv{
+        width: 85%;
+        
+    }
+    .mainDiv p{
+        width: 100%;
+    }
+    
+}
